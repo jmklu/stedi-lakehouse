@@ -73,7 +73,7 @@ The following Python scripts were created to manage data transformation in each 
 
 ### SQL Scripts
 
-Each script was used to create tables in AWS Glue from the JSON files in the landing zone:
+Each script was used to create tables in AWS Athena from the JSON files in the landing zone:
 
 1. **`customer_landing.sql`** - Creates the `customer_landing` table.
 2. **`accelerometer_landing.sql`** - Creates the `accelerometer_landing` table.
