@@ -109,6 +109,9 @@ Below are the essential screenshots of queries and results that validate each st
    
    - Customer Trusted Total Records:
      ![Customer Trusted Total Records](screenshots/customer_trusted_total_records.png)
+
+  - Customer Trusted with No Rows Where `sharewithresearchasofdate` is Null:
+    ![Customer Trusted with No Rows Where sharewithresearchasofdate is Null](screenshots/customer_trusted_with_no_rows_where_sharewithresearchasofdate_is_null.png)
    
    - Accelerometer Trusted Total Records:
      ![Accelerometer Trusted Total Records](screenshots/accelerometer_trusted_total_records.png)
